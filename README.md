@@ -1,4 +1,4 @@
  
 # Personal Website
-- Please check out my experience by visiting blackeka.github.io
+- Please check out my experience by visiting https://blackeka.github.io/
 
